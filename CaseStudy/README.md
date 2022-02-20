@@ -18,6 +18,7 @@
 
 
 ### Block diagram
+![image014](https://user-images.githubusercontent.com/98951784/154844231-7f9d2f6e-2bdb-4fa4-9aa2-1d884b810a7f.png)
 
 
 ### Applications
