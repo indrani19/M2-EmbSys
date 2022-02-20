@@ -18,7 +18,7 @@
 
 
 ### Block diagram
-![image014](https://user-images.githubusercontent.com/98951784/154844231-7f9d2f6e-2bdb-4fa4-9aa2-1d884b810a7f.png)
+![Untitled Workspace (3)](https://user-images.githubusercontent.com/98951784/154855221-c4299d8f-b358-4bb0-828d-4e973ce57364.jpg)
 
 
 ### Components 
