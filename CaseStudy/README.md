@@ -1,11 +1,14 @@
 # Sun Tracking Solar Panel
 
 
+
 ## Introduction:
 - Solar panel absorbs the energy from the Sun, converts it into electrical energy and stores the energy in a battery.
 - The position of the Sun with respect to the solar panel is not fixed due to the rotation of the Earth. For an efficient usage of the solar energy, the Solar panels should absorb energy to a maximum extent.
 - This can be done only if the panels are continuously placed towards the direction of the Sun. So, solar panel should continuously rotate in the direction of Sun
 - In this project, we will see a simple Sun Tracking Solar Panel circuit which will track the Sun and position the solar panels accordingly.
+
+
 
 
 ### Principle of Sun Tracking Solar Panel
@@ -17,8 +20,12 @@
 - In the noon time, Sun is ahead and intensity of light on both the panels is same. In such cases, panel is constant and there is no rotation.
 
 
+
+
 ### Block diagram
 ![Untitled Workspace (3)](https://user-images.githubusercontent.com/98951784/154855221-c4299d8f-b358-4bb0-828d-4e973ce57364.jpg)
+
+
 
 
 ### Components 
@@ -39,6 +46,8 @@
 - These panels can be used to power the traffic lights and streetlights
 - These can be used in home to power the appliances using solar power.
 - These can be used in industries as more energy can be saved by rotating the panel.
+
+
 
 ### Advantages
 - The solar energy can be reused as it is non-renewable resource.
