@@ -53,3 +53,14 @@
 - The solar energy can be reused as it is non-renewable resource.
 - This also saves money as there is no need to pay for energy used (excluding the initial setup cost)
 - Helps in maximizing the solar energy absorption by continuously tracking the sun.
+
+
+
+
+# Embedded Air Bag System
+
+
+## Introduction
+Air Bag is a protection device that provides safety against a head-on crash. It is for the individuals sitting in the front. The microcontroller is the brain of the system and system works on the commands given by microcontroller. Power to the controller is given by a battery. In the case of a baby accident, the sensor detects it and the controller operates the Airbag with the help of alternator.
+
+### Block Diagram
