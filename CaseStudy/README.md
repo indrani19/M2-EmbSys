@@ -64,3 +64,5 @@
 Air Bag is a protection device that provides safety against a head-on crash. It is for the individuals sitting in the front. The microcontroller is the brain of the system and system works on the commands given by microcontroller. Power to the controller is given by a battery. In the case of a baby accident, the sensor detects it and the controller operates the Airbag with the help of alternator.
 
 ### Block Diagram
+![Screenshot 2022-02-21 092138](https://user-images.githubusercontent.com/98951784/154886276-8b0b9304-1654-430d-a21d-5478402d9d38.png)
+
