@@ -1,4 +1,4 @@
-# Sun Tracking Solar Panel
+# CASE STUDY 1: Sun Tracking Solar Panel
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-### Principle of Sun Tracking Solar Panel
+### Requirements
 - The Sun tracking solar panel consists of two LDRs, solar panel and a servo motor and ATmega328 Micro controller.
 - Two light dependent resistors are arranged on the edges of the solar panel. 
 - Light dependent resistors produce low resistance when light falls on them. 
@@ -22,7 +22,7 @@
 
 
 
-### Block diagram
+### System design: Block diagram
 ![Untitled Workspace (3)](https://user-images.githubusercontent.com/98951784/154855221-c4299d8f-b358-4bb0-828d-4e973ce57364.jpg)
 
 
@@ -57,12 +57,26 @@
 
 
 
-# Embedded Air Bag System
+
+
+# CASE STUDY 2: Embedded Rain-Sensing System
 
 
 ## Introduction
-Air Bag is a protection device that provides safety against a head-on crash. It is for the individuals sitting in the front. The microcontroller is the brain of the system and system works on the commands given by microcontroller. Power to the controller is given by a battery. In the case of a baby accident, the sensor detects it and the controller operates the Airbag with the help of alternator.
+- The automated rain wiper system is used to detect rainfall and activate 
+rain wipers without driver interaction. 
+- Almost all motor vehicles, including cars, trucks, train locomotives etc are equipped with such wipers, which are usually a important requirement.
+
+
+## Requirements
+- In rainy days we suffer from sprinkling of water on front glass of vehicle. 
+Due to this sprinkling of water on windshield glass the driver cannot see other vehicles on road clearly
+- So he tries operating wiper on glass, for that
+he should often switch on for operating wiper and due to the distraction from the road there is a possibility for an accident to occur.
+- This accident can be avoided by placing a sensor which senses the sprinkling of water and sends signals to automatically operate the wiper.
+- The main requirement of this project is when the water hit the sensor, it will send signal to the system thus moving the
+wiper motor. Once sensor did not detect any water, the wiper will stop.
 
 ### Block Diagram
-![Screenshot 2022-02-21 092138](https://user-images.githubusercontent.com/98951784/154886276-8b0b9304-1654-430d-a21d-5478402d9d38.png)
+
 
