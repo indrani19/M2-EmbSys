@@ -79,7 +79,7 @@ ATtiny85 is an 8-bit AVR microcontroller that comes with 8-pin interface and mai
 |HLR-1| system shall be able to sense the sprinkling of rain water through the Rain sensor|
 |HLR-2| System shall send the signals from sensor to control unit|  
 |HLR-3| The control unit shall operate the actuator to turn on the rain wipers after receiving signals fron sensor|
-|HLR-4| system shall avoid the accident that may occur due to the distarction of driver fron road|
+|HLR-4| system shall avoid the accident that may occur due to the distarction of driver from road|
 
 
 
