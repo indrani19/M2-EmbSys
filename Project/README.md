@@ -108,4 +108,4 @@ ATtiny85 is an 8-bit AVR microcontroller that comes with 8-pin interface and mai
 - Useful to vehicles.
 - It can be implemented at house window for cleaning.
 -  A slight modification in t leads to a better cleaning system.
--  Prevents gliss shield or bars from getting corroded.
+-  Prevents glass shield or bars from getting corroded.
