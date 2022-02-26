@@ -13,4 +13,10 @@
 - To  find  the  braking  distance  at  various vehicle  speeds  as  well  as  minimum  distance before collision
 - After detecting an obstacle according to the distance the system shall stop the vehicle 
 
+
+
 ## System Design(BLock DIagram)
+![ss](https://user-images.githubusercontent.com/98951784/155834180-a51159dc-e252-4142-97b7-18dc56ce73ed.png)
+
+
+## Components Used
