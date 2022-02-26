@@ -43,6 +43,7 @@ wiper motor. Once sensor did not detect any water, the wiper will stop.
 |Control Unit|Arduino Mega|1|
 |Attiny-85|AVR Microcontroller|1|
 
+
 - Rain Sensor:
 The most common modern rain sensors are based on the principle of total internal
 reflection: an infrared light is beamed at a 45-degree angle into the windshield from
@@ -59,6 +60,23 @@ ATtiny85 is an 8-bit AVR microcontroller that comes with 8-pin interface and mai
 
 
 ## High level Requirements
+
+| ID | Description| 
+|:---:|:---:|
+|HLR-1| system shall be able to sense the sprinkling of rain water through the Rain sensor|
+|HLR-2| System shall send the signals from sensor to control unit|  
+|HLR-3| The control unit shall operate the actuator to turn on the rain wipers after receiving signals fron sensor|
+|HLR-4| system shall avoid the accident that may occur due to the distarction of driver fron road|
+
+
+
+## Low level Requirements:
+
+| ID | Description|
+|:---:|:---:|
+|LLR-1|Sensor shall not send any signals to control unit when there is no sprinkling of rain water|
+|LLR-2|The control unit shall stop the actuator upon not receiving signals from the sensor|
+
 
 
 
