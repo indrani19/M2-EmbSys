@@ -37,6 +37,16 @@ to the braking unit for applying the brake automatically.
 
 ## 2 Requirements
 
+## 2.1 High level Requirements
+
+| ID | Description| 
+|:---:|:---:|
+|HLR-1| system shall be able to sense the objects through the ultra sonic sensor|
+|HLR-2| System shall send the signals from sensor to control unit|  
+|HLR-3| The control unit shall operate the actuator to control the break pedal or throttle pedal|
+|HLR-4| system shall avoid the accident|
+
+
 
 
 
