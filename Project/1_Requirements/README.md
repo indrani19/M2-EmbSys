@@ -46,6 +46,14 @@ to the braking unit for applying the brake automatically.
 |HLR-3| The control unit shall operate the actuator to control the break pedal or throttle pedal|
 |HLR-4| system shall avoid the accident|
 
+## 2.2 Low level Requirements:
+
+| ID | Description|
+|:---:|:---:|
+|LLR-1|Sensor shall not send any signals to control unit when there is no Object|
+|LLR-2|The control unit shall stop the control on actuator when there is no object present|
+
+
 
 
 
