@@ -16,9 +16,4 @@ Dc motor is used to control the throttle pedal of the system.
 - ### Aurdino : This is the main component which controls all the above mentioned parts of our embedded system. This interfaces all the sensors and actuators. 
 
 
-## 2 Architecture
-
-### 2.1 Behavioural Diagram
-
-### 2.1.1 High Level Flow chart Behavioural Diagram
 
