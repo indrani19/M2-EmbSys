@@ -29,5 +29,8 @@ to the braking unit for applying the brake automatically.
 - To ensure the system responds in real-time 
 
 ##  5W's 1H
+![w](https://user-images.githubusercontent.com/98951784/155892334-c0faea93-1f2a-4242-80f5-9f40b785cff5.png)
+
+## Swot Analysis
 
 
