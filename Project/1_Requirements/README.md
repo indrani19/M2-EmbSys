@@ -32,5 +32,11 @@ to the braking unit for applying the brake automatically.
 ![w](https://user-images.githubusercontent.com/98951784/155892334-c0faea93-1f2a-4242-80f5-9f40b785cff5.png)
 
 ## Swot Analysis
+![sss](https://user-images.githubusercontent.com/98951784/155892865-62036e80-ed4c-48ec-b4e1-ede58530a8f1.png)
+
+
+## 2 Requirements
+
+
 
 
