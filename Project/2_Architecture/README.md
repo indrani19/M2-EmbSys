@@ -13,7 +13,8 @@ The component of the machine or devices that are responsible for moving, control
 Dc motor is used to control the throttle pedal of the system.
 
 ## 1.3 MICRO CONTROLLER
-- ### Aurdino : This is the main component which controls all the above mentioned parts of our embedded system. This interfaces all the sensors and actuators. 
+- ### Aurdino : 
+This is the main component which controls all the above mentioned parts of our embedded system. This interfaces all the sensors and actuators. 
 
 
 
