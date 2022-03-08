@@ -35,6 +35,9 @@
 # 2 Architecture
 ## 2.1 Behavioural Diagram
 ### 2.1.1 High Level Flow chart Behavioural Diagram
+
+![ff22](https://user-images.githubusercontent.com/98951784/157300329-49d513bb-eee6-4eee-a0f7-d46026921a93.png)
+
   
 
 
