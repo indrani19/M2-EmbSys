@@ -44,6 +44,7 @@
 
 ## 2.2 Structural Diagram
 ### 2.2.1 Functional Diagram
+![bb4](https://user-images.githubusercontent.com/98951784/157306931-50a628cf-7618-42ef-84b2-e5523647c910.png)
 
 
 
