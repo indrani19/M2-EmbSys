@@ -1,6 +1,9 @@
-# 1 BLOCK DIAGRAM
+# 1 Block diagram and BLocks Explanation
+## 1.1 Block Diagram
 
-![Engineering](https://user-images.githubusercontent.com/98951784/155894098-05041be7-d8e9-41f0-bc86-358f23f823f7.jpg)
+![bbbb1](https://user-images.githubusercontent.com/98951784/157293115-3406bc97-1797-4581-a6e2-93ff56bf7566.png)
+
+
 
 ## 1.1 SENSORS USED
 - ### Ultrasonic sensor:
