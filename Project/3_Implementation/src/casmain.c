@@ -1,7 +1,7 @@
 #include"cas.h"
 Ultrasonic ultrasonic(A0, A1);
 int distance;
-int maxdistance = 100;
+int maxdistance = 20;
 int m1forward = 22; //1a
 int m1backward = 24; //2a
 int m2forward = 26; //3a
@@ -56,11 +56,11 @@ void loop() {
    Serial.println(distance);
   //delay(1000);
 
-   if(distance<100)
+   if(distance<10)
     {
      halt();
     }
-   else if(distance>100 && distance<200)
+   else if(distance>10 && distance<20)
    {
      changeSpeed();
    }
