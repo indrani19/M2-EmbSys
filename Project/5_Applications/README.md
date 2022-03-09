@@ -1,0 +1,5 @@
+-  A collision avoidance system, also known as a driver assistance system, is a safety system designed to prevent a collision or decrease its severity in the few seconds before it occurs.
+- Slowing the speed of a vehicle by a few kilometres before impact can save lives. 
+- Active safety systems have the potential to not only reduce the number of accidents, but also can reduce the consequences of an accident if a collision cannot be avoided.
+- The application will help drivers avoid accidents by being more aware of their surroundings. 
+- This awareness comes from the decrease of distracted drivers due to the early warning system in the application
