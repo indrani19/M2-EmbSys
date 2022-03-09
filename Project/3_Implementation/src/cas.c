@@ -54,6 +54,8 @@ void changeSpeed(void)
    for (int i = 0; i < 256; i++) {
     analogWrite(ENA, i);
     analogWrite(ENB, i);
+    analogWrite(ENA1, i);
+    analogWrite(ENB1, i);
     delay(20);
   }
   
@@ -61,6 +63,8 @@ void changeSpeed(void)
   for (int i = 255; i >= 0; --i) {
     analogWrite(ENA, i);
     analogWrite(ENB, i);
+    analogWrite(ENA1, i);
+    analogWrite(ENB1, i);
     delay(20);
   }
   

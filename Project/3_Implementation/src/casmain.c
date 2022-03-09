@@ -9,6 +9,9 @@ int m2backward = 28;
 int breakpedal= 30;
 int ENA = 5;
 int ENB = 4;
+int ENA1 = 2;
+int ENB1 = 3;
+
 
 int m3forward = 32; //1a
 int m3backward = 34; //2a
@@ -26,6 +29,9 @@ void setup() {
   pinMode(breakpedal,OUTPUT);
   pinMode(ENA, OUTPUT);
   pinMode(ENB, OUTPUT);
+  pinMode(ENA1, OUTPUT);
+  pinMode(ENB1, OUTPUT);
+
 
   pinMode(m3forward,OUTPUT);
   pinMode(m3backward,OUTPUT);
@@ -42,6 +48,8 @@ void loop() {
  
    analogWrite(ENA, 255);
    analogWrite(ENB, 255);
+   analogWrite(ENA1, 255);
+   analogWrite(ENB1, 255);
    distance = ultrasonic.read();
   
    Serial.print("Distance in CM: ");
